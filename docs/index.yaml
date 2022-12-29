@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-29T11:00:25.836457236+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 6d8e8a302b81424ebdcb6cf7379e135bce23570944566c68e3cc5e4de8eb5dbe
+    name: mychart
+    type: application
+    urls:
+    - https://foreachtech.github.io/mychart2/mychart-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-12-29T11:00:25.835068786+07:00"
